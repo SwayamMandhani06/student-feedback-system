@@ -107,4 +107,4 @@ PCCOE
 
 ## Author
 
-Developed as part of the Full Stack Development Lab curriculum.
+Swayam Mandhani
